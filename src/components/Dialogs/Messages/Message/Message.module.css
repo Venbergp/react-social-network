@@ -1,0 +1,16 @@
+.message {
+  background-color: rgb(255, 143, 143);
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  width: max-content;
+  align-self: flex-end;
+}
+
+.from_opponent {
+  background-color: #FFEBBD;
+}
+
+.from_you {
+  background-color: #FFD2CE;
+}

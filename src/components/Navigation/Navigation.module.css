@@ -1,0 +1,38 @@
+.Navigation {
+    background-color: rgb(77, 145, 122);
+    grid-area: Nav;
+    margin-right: 10px;
+    border-radius: 10px;
+  }
+  
+.Navigation div {
+    padding: 5px;
+    font-size:130%;
+  }
+
+.item {
+    
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.unactive {
+  color: white;
+  text-decoration: none;
+}
+
+.active{
+  color: black;
+  text-decoration: none;
+}
+
+.active div{
+  transition: 0.5s;
+  background-color: #e6b824;
+}
+
+.unactive div {
+  transition: 0.5s;
+  background-color: rgb(65, 65, 65);
+}

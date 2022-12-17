@@ -1,0 +1,30 @@
+
+
+
+.paper {
+  background-color: white;
+  padding: 20px;
+  margin: 30px;
+  border-radius: 10px;
+  width: max-content;
+}
+
+
+.button { 
+  text-decoration: none;
+  padding: 10px;
+  height: auto;
+  border-radius: 10px;
+  transition: 0.5s;
+  background-color: rgb(209, 203, 181);
+  color: black;
+  border-right: rgb(61, 61, 61) solid;
+  border-width: 2px;
+  
+}
+
+.button:hover {
+  background-color: #828091;
+  color: white;
+  border-right: rgb(61, 61, 61) solid;
+}

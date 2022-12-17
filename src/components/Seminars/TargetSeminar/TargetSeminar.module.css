@@ -1,0 +1,35 @@
+
+
+
+.dialog {
+  margin: 30px;  
+  padding: 10px;
+  height: 150px;
+  width: 150px;
+  border-radius: 10px;
+  transition: 0.5s;
+  background-color: rgb(209, 203, 181);
+  color: black;
+  border-right: rgb(61, 61, 61) solid;
+  border-width: 2px;
+  
+}
+
+.dialog:hover {
+  background-color: #828091;
+  color: white;
+  border-right: rgb(61, 61, 61) solid;
+}
+
+.linkStyle {
+  text-decoration: none;
+}
+
+
+
+.seminarName {
+  font-size: 20px;
+  
+}
+
+

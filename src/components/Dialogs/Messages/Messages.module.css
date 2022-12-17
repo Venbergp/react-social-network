@@ -1,0 +1,32 @@
+
+.from_opponent {
+align-self: flex-start;
+}
+
+
+.from_you {
+    align-self: flex-end;
+}
+
+.sendMessageBlock {
+    margin-top: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.textInput {
+    width: 400px;
+}
+
+.buttonSend {
+    margin-left: 10px;  
+}
+
+.messages {
+    margin-left: 150px;
+    margin-right: 150px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    min-height: 400px;
+  }

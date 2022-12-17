@@ -1,0 +1,9 @@
+
+.item {
+    color: blue;
+    background-color: rgb(209, 203, 181);
+    margin: 30px;
+    padding: 10px;
+    height: 70px;
+    border-radius: 10px;
+}

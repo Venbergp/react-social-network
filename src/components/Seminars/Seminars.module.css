@@ -1,0 +1,18 @@
+
+.seminarsArea {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.dialogsItems {
+  
+  height: 100%;
+  border-right: rgb(61, 61, 61) solid;
+  border-width: 2px;
+}
+
+.inputText {
+  margin: 30px;
+}
+
+
